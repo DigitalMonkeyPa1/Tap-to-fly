@@ -1,0 +1,2 @@
+$ cat .gitattributes
+*.gd linguist-language=GDScript
