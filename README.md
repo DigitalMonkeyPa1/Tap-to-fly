@@ -1,5 +1,5 @@
 # Tap-to-fly
-My first released game, made with Godot Engine.
+My first game which is actually released, made with Godot Engine.
 
 Simple game.
 
